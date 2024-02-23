@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "147275435174",
+    "project_id": "say-hello-4c145",
+    "storage_bucket": "say-hello-4c145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147275435174:android:493c8e74adcf416de53867",
+        "android_client_info": {
+          "package_name": "com.sayhello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147275435174-j2t9g6sndt6l0eevoo7uaiirkq881tia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayhello",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "147275435174-7r5qdksfu0n0kcn4tu6u5o1nmn6opsr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgmIQldUGp1HV5LnfAjQB_qVP7FHm5x0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147275435174-7r5qdksfu0n0kcn4tu6u5o1nmn6opsr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
